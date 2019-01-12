@@ -60,6 +60,10 @@ second serves cities 30 through 35, the third serves cities 45 through 50, and t
 serves cities 10 through 20. City 15 is served by the first and fourth buses, so the first
 number in our answer list is 2. City 25 is served by only the first bus, so the second
 number in our answer list is 1."""
+
+
+
+
 x=[]
 s=0
 T=int(input())
