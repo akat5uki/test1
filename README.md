@@ -59,3 +59,4 @@ Case #1: 2 1
 Case #2: 3 3 4
 
 In Sample Case #1, there are four GBuses. The first serves cities 15 through 25, the second serves cities 30 through 35, the third serves cities 45 through 50, and the fourth serves cities 10 through 20. City 15 is served by the first and fourth buses, so the first number in our answer list is 2. City 25 is served by only the first bus, so the second number in our answer list is 1.
+[![Run on Repl.it](https://repl.it/badge/github/akat5uki/test1)](https://repl.it/github/akat5uki/test1)
